@@ -8,7 +8,7 @@ I'm a Computer Science Engineering graduate passionate about building practical 
 
 🚀 **Projects**
 - 🏠 [PG Made Eazy](https://pg-made-eazy.vercel.app/) — Full-stack PG booking platform
-- 🤝 CreatorSphere — Creator-brand collaboration platform
+- 🤝 [Connect Sphere](https://creator-sphere-iota.vercel.app/) — Creator-brand collaboration platform
 - 📊 CTR Analysis — Data analysis & time-series forecasting
 
 💼 **Currently:** Trainee Software Engineer Intern at Isthara Parks
