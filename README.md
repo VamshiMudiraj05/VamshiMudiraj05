@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💫 Hi there, I'm Vamshi Mudiraj! 
+# 💫 Hi there, I'm Vamshi  
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F43F5E&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%26+Software+Engineer;B.Tech+CSE+(Data+Science)+%7C+CGPA+8.85;Spring+Boot+%26+React.js+Specialist;AI+Agents+%26+Automation+Builder;Tech+Content+Creator+(35K%2B+Community))](https://git.io/typing-svg)
 
